@@ -2,7 +2,7 @@
 
 `2020 Series`
 # Generare de siruri plecand de la o Gramatica Idependenta de Context
-Proiectul 1 de la materia Limbaje Formale si Automate/Translatoare - Calculatoare, Anul 3.
+Proiectul numarul 1 de la materia Limbaje Formale si Automate/Translatoare - Calculatoare, Anul 3.
 
 Se va crea un nou fisier .txt in care sunt introduse datele sub formatul (ex. input.txt):
 - Linia 1: Simbol de start: S
