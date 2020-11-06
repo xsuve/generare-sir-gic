@@ -8,9 +8,9 @@ Se va crea un nou fisier .txt in care sunt introduse datele sub formatul (ex. in
 - Linia 1: Simbol de start: S
 - Linia 2: Neterminale: ACS
 - Linia 3: Terminale: abc
-- Linia 4+: Productii:
-            S abc,aAbC,aAC
-            A aAb,ab
+- Linia 4+: Productii:<br>
+            S abc,aAbC,aAC<br>
+            A aAb,ab<br>
             C cC,c
 
 ### Dezvoltare
