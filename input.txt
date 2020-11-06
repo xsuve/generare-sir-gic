@@ -1,0 +1,6 @@
+S
+ACS
+abc
+S abc,aAbC,aAC
+A aAb,ab
+C cC,c
