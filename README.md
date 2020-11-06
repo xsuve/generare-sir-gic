@@ -13,7 +13,7 @@ Se va crea un nou fisier .txt in care sunt introduse datele sub formatul (ex. in
             *A aAb,ab*<br>
             *C cC,c*
             
-In ansamblu, se foloseste o structura pentru stocarea produciilor. '*from*' reprezinta, pentru prima producite '*S*' iar '*to*', un vector de string-uri, reprezinta in ce se poate transforma '*S*', '*abc,aAbC,aAC*'.
+In ansamblu, se foloseste o structura pentru stocarea produciilor. '*from*' reprezinta, pentru prima producite '*S*' iar '*to*', un vector de string-uri, reprezinta in ce se poate transforma '*S*', '*abc,aAbC,aAC*'. Pentru selectarea unei singure transformari din vectorul de string-uri, la momentul procesarii se face un random intre '*0*' si dimensiunea vectorului de string-uri, preluand astfel o valoare aleatoare din acesta.
 
 ### Dezvoltare
 * C++
