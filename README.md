@@ -12,6 +12,8 @@ Se va crea un nou fisier .txt in care sunt introduse datele sub formatul (ex. in
             S abc,aAbC,aAC<br>
             A aAb,ab<br>
             C cC,c
+            
+In ansamblu, se foloseste o structura pentru stocarea produciilor. 'from' reprezinta, pentru prima producite 'S' iar 'to', un vector de string-uri, reprezinta in ce se poate transforma 'S', 'abc,aAbC,aAC'.
 
 ### Dezvoltare
 * C++
